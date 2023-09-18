@@ -37,5 +37,4 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 📌 Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-dutta&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/sdutta10)
 
