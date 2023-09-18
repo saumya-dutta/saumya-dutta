@@ -8,11 +8,11 @@
 
 ### :woman_technologist: About Me :
 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, ON.
-- :telescope: I’m an aspiring Software Engineer, interesting in full-stack development and design.
+- :telescope: I’m an aspiring Software Engineer, interesting in full-stack development and design. 
 
-- 🍵 I'm a current student at the University of Waterloo pursuing Management Engineering
+- 🍵 I'm a current student at the University of Waterloo pursuing Management Engineering.
 
-- 🌙 I love exploring my skills through meaningful projects and using my skills to make an impact
+- 🌙 I love exploring my skills by contributing to meaningful projects that make an impact. I am a software sub-lead on Waterloop and a current backend lead on Tech+
 
 - 💌 Reach me at [![Linkedin Badge](https://img.shields.io/badge/-saumyadutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-dutta/)
 
