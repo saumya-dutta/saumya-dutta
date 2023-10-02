@@ -12,7 +12,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🍵 I'm a current student at the University of Waterloo pursuing Management Engineering.
 
-- 🌙 I love exploring my skills by contributing to meaningful projects that make an impact. I am a software sub-lead on Waterloop and a current backend lead on Tech+
+- 🌙 I love exploring my skills by contributing to meaningful projects that make an impact. I'm a software sub-lead on Waterloop and backend tech lead on Tech+
 
 - 💌 Reach me at [![Linkedin Badge](https://img.shields.io/badge/-saumyadutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-dutta/)
 
